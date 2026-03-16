@@ -336,7 +336,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LookSpeedController: 120
   m_LookSpeedMouse: 4
-  m_MoveSpeed: 10
+  m_MoveSpeed: 5
   m_MoveSpeedIncrement: 2.5
   m_Turbo: 10
 --- !u!1 &358283295

@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: JitterMeatMaterial
+  m_Name: VertexJitterMeatMaterial
   m_Shader: {fileID: 4800000, guid: 52374bdd990211d43a78a7b272ef9a6a, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
