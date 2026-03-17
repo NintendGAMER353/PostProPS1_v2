@@ -42,7 +42,7 @@ Material:
     - _GrosorLinea: 0.15
     - _Interpolaci_n: 10.3
     - _MultiplicadorRuido: 3
-    - _Nitidez: 0.2
+    - _Nitidez: 0.33
     m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
