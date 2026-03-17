@@ -37,8 +37,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _GrosorLinea: 0.1
-    - _Nitidez: 0
+    - _EscalaRuido: 2.75
+    - _GrosorGranulado: 3
+    - _GrosorLinea: 0.15
+    - _Interpolaci_n: 10.3
+    - _MultiplicadorRuido: 3
+    - _Nitidez: 0.2
     m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
